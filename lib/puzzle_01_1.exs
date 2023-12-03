@@ -1,5 +1,5 @@
 defmodule Puzzle01_1 do
-  @input_file_path "priv/puzzle_01_1_input.txt"
+  @input_file_path "priv/puzzle_01_input.txt"
   @numbers_string_pattern "0123456789"
 
   def solve() do
